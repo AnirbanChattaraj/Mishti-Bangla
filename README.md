@@ -38,3 +38,5 @@ Google Fonts	High-end typography
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 Preview>>https://anirbanchattaraj.github.io/Mishti-Bangla/
+
+Author:
