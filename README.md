@@ -39,4 +39,4 @@ Google Fonts	High-end typography
 
 Preview>>https://anirbanchattaraj.github.io/Mishti-Bangla/
 
-Author:
+Author:Anirban Chattaraj
