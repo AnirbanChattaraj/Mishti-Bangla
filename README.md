@@ -16,7 +16,7 @@ Fully responsive layout (desktop & mobile)
 
 Clean, professional structure suitable for production deployment
 
-🧁 Featured Bengali Sweets
+🧁 Featured Bengali Sweets:
 
 Rasgulla – Soft chhena balls soaked in light sugar syrup
 
