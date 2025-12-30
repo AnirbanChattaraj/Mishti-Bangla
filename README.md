@@ -2,7 +2,7 @@ Mishti Bangla — Premium Bengali Sweets Website
 
 A modern, premium, and culturally inspired web project dedicated to the heritage of Bengali sweets (Mishti). This website blends traditional storytelling with a contemporary luxury UI, making it suitable for brand showcases, cultural portfolios, and frontend practice projects.
 
-✨ Project Highlights:
+✨ Project Highlights:-
 
 Premium, modern UI with luxury color palette
 
