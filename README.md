@@ -16,7 +16,7 @@ Fully responsive layout (desktop & mobile)
 
 Clean, professional structure suitable for production deployment
 
-🧁 Featured Bengali Sweets:
+🧁 Featured Bengali Sweets:-
 
 Rasgulla – Soft chhena balls soaked in light sugar syrup
 
@@ -28,7 +28,7 @@ Chomchom – Festive cylindrical sweets coated with coconut or malai
 
 Each sweet is explained with cultural and historical context to preserve authenticity.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:-
 Technology	Usage
 HTML5	Semantic page structure
 CSS3	Premium styling, gradients, layout, responsiveness
